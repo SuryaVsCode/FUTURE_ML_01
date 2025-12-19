@@ -28,7 +28,7 @@ sales-forecasting/
 ├── data/
 │   ├── raw/
 │   │   └── Adidas_US_Sales_Dataset.xlsx
-│   ├── processed/
+│   ├── forecast/
 │   │   └── sales_forecast.csv
 │
 ├── notebooks/
